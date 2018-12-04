@@ -9,10 +9,10 @@ dl, dt, dd, ul, li, form, table, tr, th, td {
 }
 body {
 	font-size: 100%;
-	color: #555555;
+	color: #f00;
 }
 #container {
-	width: 980px;
+	width: 680px;
 	margin: 0px auto;
 }
 #header h1 , #header p{
